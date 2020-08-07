@@ -1,2 +1,2 @@
 # Spring
-Demonstation of various apring aspects
+Demonstation of various spring aspects.
